@@ -1,0 +1,23 @@
+{
+  "name": "ajs_hw3.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiSeledkov/ajs_hw3.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeiSeledkov/ajs_hw3.1/issues"
+  },
+  "homepage": "https://github.com/SergeiSeledkov/ajs_hw3.1#readme",
+  "dependencies": {
+    "@sergeiseledkov/ajs_hw3": "^1.0.0"
+  }
+}
